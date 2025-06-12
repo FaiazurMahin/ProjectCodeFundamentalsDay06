@@ -9,6 +9,8 @@ getid.appendChild(createpara);
 
 // getid.removeChild(createpara);
 
+
+//How can you remove an element from the DOM using JavaScript?  
 const removeele = document.getElementById("Y");
 removeele.remove();
 
